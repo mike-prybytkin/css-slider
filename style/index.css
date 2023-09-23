@@ -1,0 +1,5 @@
+@import './abstract/variables.css';
+
+@import './base/normalize.css';
+
+@import './components/slider-1.css';
