@@ -1,0 +1,9 @@
+.title {
+  text-align: center;
+  margin: 0;
+  padding: 40px 10px 0;
+}
+
+.title_1 {
+  background: var(--color-bg-slider-1);
+}
